@@ -32,31 +32,39 @@ Hello, I'm Meichen Qian. Welcome to my personal site! I am 5-th year Finance PhD
 </details>
 
 ## Teaching
-<section>
-  <p><strong>MBA: Arbitrage Investing</strong></p>
-  <ul>
-    <li>TA for Mark Mitchell, Spring 2025</li>
-    <li>Location: Chicago</li>
-  </ul>
+<section style="line-height:1.5;">
+  <div style="margin-bottom:1.2em;">
+    <p style="margin-bottom:0.2em;"><strong>MBA: Arbitrage Investing</strong></p>
+    <ul style="margin-top:0; margin-bottom:0;">
+      <li>TA for Mark Mitchell, Spring 2025</li>
+      <li>Location: Chicago</li>
+    </ul>
+  </div>
 
-  <p><strong>Executive MBA: Corporate Finance</strong></p>
-  <ul>
-    <li>TA for Pietro Veronesi, Spring 2024</li>
-    <li>Location: Hong Kong</li>
-    <li>TA Evaluation: 4.75/5 (detailed report available upon request)</li>
-  </ul>
+  <div style="margin-bottom:1.2em;">
+    <p style="margin-bottom:0.2em;"><strong>Executive MBA: Corporate Finance</strong></p>
+    <ul style="margin-top:0; margin-bottom:0;">
+      <li>TA for Pietro Veronesi, Spring 2024</li>
+      <li>Location: Hong Kong</li>
+      <li>TA Evaluation: 4.75/5 (detailed report available upon request)</li>
+    </ul>
+  </div>
 
-  <p><strong>PhD: Corporate Finance Theory</strong></p>
-  <ul>
-    <li>TA for Zhiguo He and Douglas Diamond (Fall 2023)</li>
-    <li>Location: Chicago</li>
-  </ul>
+  <div style="margin-bottom:1.2em;">
+    <p style="margin-bottom:0.2em;"><strong>PhD: Corporate Finance Theory</strong></p>
+    <ul style="margin-top:0; margin-bottom:0;">
+      <li>TA for Zhiguo He and Douglas Diamond (Fall 2023)</li>
+      <li>Location: Chicago</li>
+    </ul>
+  </div>
 
-  <p><strong>Undergrad: Investment</strong></p>
-  <ul>
-    <li>TA for Anthony Zhang (Winter 2023 and Spring 2024)</li>
-    <li>Location: Chicago</li>
-  </ul>
+  <div style="margin-bottom:1.2em;">
+    <p style="margin-bottom:0.2em;"><strong>Undergrad: Investment</strong></p>
+    <ul style="margin-top:0; margin-bottom:0;">
+      <li>TA for Anthony Zhang (Winter 2023 and Spring 2024)</li>
+      <li>Location: Chicago</li>
+    </ul>
+  </div>
 </section>
 
 
