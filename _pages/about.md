@@ -32,22 +32,33 @@ Hello, I'm Meichen Qian. Welcome to my personal site! I am 5-th year Finance PhD
 </details>
 
 ## Teaching
-**MBA: Arbitrage Investing**
-- TA for Mark Mitchell, Spring 2025
-- Location: Chicago
+<section>
+  <p><strong>MBA: Arbitrage Investing</strong></p>
+  <ul>
+    <li>TA for Mark Mitchell, Spring 2025</li>
+    <li>Location: Chicago</li>
+  </ul>
 
-**Executive MBA: Corporate Finance**
-- TA for Pietro Veronesi, Spring 2024
-- Location: Hong Kong
-- TA Evaluation: 4.75/5 (detailed report available upon request)
+  <p><strong>Executive MBA: Corporate Finance</strong></p>
+  <ul>
+    <li>TA for Pietro Veronesi, Spring 2024</li>
+    <li>Location: Hong Kong</li>
+    <li>TA Evaluation: 4.75/5 (detailed report available upon request)</li>
+  </ul>
 
-**PhD: Corporate Finance Theory**
-- TA for Zhiguo He and Douglas Diamond (Fall 2023)
-- Location: Chicago
+  <p><strong>PhD: Corporate Finance Theory</strong></p>
+  <ul>
+    <li>TA for Zhiguo He and Douglas Diamond (Fall 2023)</li>
+    <li>Location: Chicago</li>
+  </ul>
 
-**Undergrad: Investment**
-- TA for Anthony Zhang (Winder 2023 and Spring 2024)
-- Location: Chicago
+  <p><strong>Undergrad: Investment</strong></p>
+  <ul>
+    <li>TA for Anthony Zhang (Winter 2023 and Spring 2024)</li>
+    <li>Location: Chicago</li>
+  </ul>
+</section>
+
 
 ## Contact
 
