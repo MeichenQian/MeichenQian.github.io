@@ -11,7 +11,7 @@ redirect_from:
 
 Hello, I'm Meichen Qian. Welcome to my personal site! I am 5-th year Finance PhD candidate at Chicago Booth.
 
-## Research
+## Working Papers
    
 ### **Bridging Segmented Markets: the Role of Active Investors**
 <details>
@@ -25,11 +25,29 @@ Hello, I'm Meichen Qian. Welcome to my personal site! I am 5-th year Finance PhD
     This study investigates how information and inventory effect jointly determine return predictability from retail and total order flow. I build a model that combines the asymmetric information impact of investors with the inventory effect of market makers to analyze how lagged order flow can forecast future returns. The model illustrates that the difference in predictive power between retail and total order flow can be attributed to the varying informativeness of different investor groups. The focus of this paper is to empirically test how market makers' varying inventory capacity affect this predictive power. While previous literature has theoretically demonstrated that the predictive power of past returns is positive and increases with a market maker's risk aversion, such a monotonic relationship requires specific model parameter constraints and lacks empirical support. My framework suggests that when predictibility remains positive, the magnitude increases when the market maker has lower risk bearing capacity, but this monotonic relationship is only within a certain range. Specifically, when the market maker is extremely unwilling to provide liquidity, return predictability can turn negative, as the price impact channel dominates. I empirically test this theoretical prediction using data from stocks in the banking sector and the results align with the model. The rationale is that these stocks exhibit the strongest positive correlation with the market maker's business, and therefore they have lowest inventory capacity for these stocks. This finding is supported by the observation that negative predictability becomes more pronounced in times of higher market volatility or for stocks with lower liquidity.
 </details>
 
-### **[Environmental Partisanship in the Crowdfunding of Technology](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759551)** 
+### **[Environmental Partisanship in the Crowdfunding of Technology](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759551) (with Vesa Pursiainen and Dragon Tang)**
 <details>
     <summary>Abstract</summary>
     We study the implications of environmental commitments by technology entrepreneurs in their reward-based crowdfunding campaigns. Technology projects with public environmental commitments are significantly less likely to receive funding, but this varies depending on local climate opinions and political views. Backers in areas less concerned about climate change and more Republican areas are significantly less likely to fund campaigns with environmental commitments. The negative relationship between campaign outcomes and environmental commitments is stronger in cases where such commitments might be assumed more costly, suggesting that at least some backers interpret there to be a trade-off between sustainability and other product features.
 </details>
+
+## Teaching
+**MBA: Arbitrage Investing**
+- TA for Mark Mitchell, Spring 2025
+- Location: Chicago
+
+**Executive MBA: Corporate Finance**
+- TA for Pietro Veronesi, Spring 2024
+- Location: Hong Kong
+- TA Evaluation: 4.75/5 (detailed report available upon request)
+
+**PhD: Corporate Finance Theory**
+- TA for Zhiguo He and Douglas Diamond (Fall 2023)
+- Location: Chicago
+
+**Undergrad: Investment**
+- TA for Anthony Zhang (Winder 2023 and Spring 2024)
+- Location: Chicago
 
 ## Contact
 
