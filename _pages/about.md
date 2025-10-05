@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 
-Hello, I'm Meichen Qian. Welcome to my personal site! I am 5-th year Finance PhD candidate at Chicago Booth.
+Hello, I'm Meichen Qian. Welcome to my personal site! I am 5-th year Finance PhD candidate at Chicago Booth. I'm on the 2025-2026 job market, and expect to graduate in June 2026.
+
+**Research interests**: asset pricing, financial intermediation, market microstructure, sustainable finance
+
+**[CV](https://drive.google.com/file/d/1uSna7IE6Kbg12v0IucQTidddHROwKuN_/view?usp=sharing)**
 
 ## Working Papers
    
