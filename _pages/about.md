@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-Hello, I'm Meichen Qian. Welcome to my personal site! I am 5-th year Finance PhD candidate at Chicago Booth. I'm on the 2025-2026 job market, and expect to graduate in June 2026.
+Hello, I'm Meichen Qian. Welcome to my personal site! I am a fifth-year PhD candidate in Finance at the University of Chicago Booth School of Business. Before starting my PhD, I earned a Bachelor’s degree in Economics and Finance from the University of Hong Kong in 2021.
+
+I'm on the 2025-2026 job market.
 
 **Research interests**: asset pricing, financial intermediation, market microstructure, sustainable finance
 
