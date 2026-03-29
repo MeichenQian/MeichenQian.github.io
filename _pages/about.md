@@ -11,15 +11,13 @@ redirect_from:
 
 Hello, I'm Meichen Qian. Welcome to my personal site! I am a fifth-year PhD candidate in Finance at the University of Chicago Booth School of Business. Before starting my PhD, I earned a Bachelor’s degree in Economics and Finance from the University of Hong Kong in 2021.
 
-I'm on the 2025-2026 job market.
-
 **Research interests**: asset pricing, financial intermediation, market microstructure, sustainable finance
 
 **[CV](https://drive.google.com/file/d/1uSna7IE6Kbg12v0IucQTidddHROwKuN_/view?usp=sharing)**
 
 ## Working Papers
    
-### **[Bridging Segmented Markets: The Role of Active Investors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5568019)** (Job Market Paper)
+### **[Bridging Segmented Markets: The Role of Active Investors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5568019)**
 <details>
     <summary>Abstract</summary>
     This paper examines how active mutual fund and ETF investors facilitate information transmission between the stock and corporate bond markets. I show that changes in active holdings and active cross-asset ownership predict future returns, while passive flows do not. More importantly, active investors enhance cross-market informational efficiency by reducing the predictability of bond returns from lagged stock returns. The effect of information coordination through active cross-asset ownership is stronger for investment-grade firms, where baseline market segmentation is greater and the benefits of information coordination are higher. The mitigation of selling frictions through higher active holdings is more pronounced during periods of adverse market conditions, where short-sale constraints are more likely to impede price discovery. Furthermore, a higher active ratio in ownership and a higher active ratio in cross-asset holdings are associated with stronger return comovement between a firm's stock and bond, reflecting greater integration between the two markets. These results highlight the importance of active management in enhancing cross-asset price discovery and market integration.
